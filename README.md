@@ -2,6 +2,11 @@
 
 ### An LLM slide generator that summarizes research articles
 
+Short 30s video
+
+[![Video Title]()](LLMY_short_video.MOV "LLMY video")
+
+
 #### This pdf verions of slides can be generated in two ways:
 
 #### To generate slides in the *.tex* format, do the following steps:
