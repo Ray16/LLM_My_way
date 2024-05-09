@@ -7,7 +7,7 @@ Short 30s video
 [![LLMY Video](https://img.youtube.com/vi/IcEGcZFxXbw/0.jpg)](https://www.youtube.com/watch?v=IcEGcZFxXbw)
 
 
-#### This pdf verions of slides can be generated in two ways:
+#### The pdf verion of slides summarized by LLM can be generated in two ways:
 
 #### To generate slides in the *.tex* format, do the following steps:
 1. Place the pdf files of research articles under the `pdf` folder
@@ -26,10 +26,15 @@ streamlit run webapp.py
 
 ### Developers
 Faradawn Yang
+
 Andy Qin
+
 Suraj Sudhakar
+
 Ray Zhu
+
 Jaehee Park
+
 Victor Chen
 
 ### Licence
