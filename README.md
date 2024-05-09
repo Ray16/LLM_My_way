@@ -4,7 +4,7 @@
 
 Short 30s video
 
-[![Video Title]()](LLMY_short_video.MOV "LLMY video")
+[![LLMY Video](https://img.youtube.com/vi/IcEGcZFxXbw/0.jpg)](https://www.youtube.com/watch?v=IcEGcZFxXbw)
 
 
 #### This pdf verions of slides can be generated in two ways:
