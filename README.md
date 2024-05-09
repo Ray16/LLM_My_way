@@ -3,6 +3,7 @@
 ### An LLM slide generator that summarizes research articles
 
 Short 30s video
+
 [![LLMY Video](https://img.youtube.com/vi/IcEGcZFxXbw/0.jpg)](https://www.youtube.com/watch?v=IcEGcZFxXbw)
 
 
