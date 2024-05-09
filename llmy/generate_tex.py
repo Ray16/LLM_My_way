@@ -4,11 +4,8 @@
 def read_output(filename, **kwargs):
     with open(file=filename) as file:
         lines = file.readlines()
-        input = []
-        idx = [1, 4, 7, 10, 13, 16, 19]
-        for i in idx:
-            input.append(lines[i])
-
+        filtered_lines = [line for line in lines if line.strip() and not line.lstrip().startswith(tuple(str(i) + '.' for i in range(1, 8)))]
+    return filtered_lines
 
 def get_files(inp: list, **kwargs) -> None:
     """
