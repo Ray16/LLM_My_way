@@ -14,6 +14,22 @@
 2. In VS Code, download `Marp` VS Code Extension.
 3. Run `Command + Shift + P` to use Marp to export the slide deck.
 
+#### To build the package
+1. Add scripts in `llmy/` folder.
+2. Include them in `__init__.py`.
+3. Build the package as follows
+```
+pip install wheel
+python setup.py sdist bdist_wheel
+pip install dist/llmy-0.1.0-py3-none-any.whl
+
+# Use in your code
+import llmy
+llmy.summarize_pdf('pdf/LIFT_paper.pdf')
+
+# Upload to Pypi (with an account)
+```
+
 ### Developers
 Faradawn Yang
 Andy Qin
